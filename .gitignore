@@ -1,0 +1,54 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Python / ML
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+
+# Jupyter / ML artifacts
+.ipynb_checkpoints/
+*.h5
+*.pkl
+*.joblib
+
+# Build folders
+dist/
+build/
+out/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Packet Tracer / IoT files
+*.pka
+*.pkt
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage
+coverage/
