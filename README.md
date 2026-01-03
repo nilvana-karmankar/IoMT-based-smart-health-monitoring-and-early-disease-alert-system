@@ -12,3 +12,44 @@ Objectives:
 4. Generate automated alerts during abnormal health conditions
 5. Provide a web-based dashboard for live data visualization and analytics
 
+Technologies Used:
+🔹 Frontend
+    1.React.js
+    2.Component-based UI (App.js, index.js)
+    3.HTML5
+    4.public/index.html
+    5.CSS3
+    6.Styling (App.css, index.css)
+    7.JavaScript (ES6+)
+    8.React Scripts (Create React App)
+    9.Web Manifest (PWA support)
+    10.manifest.json
+
+🔹 Backend
+    1.Node.js
+    2.Express.js
+    3.API server (server.js)
+    4.JavaScript
+    5.Python
+    6.Machine Learning prediction logic (predict.py)
+    7.RESTful APIs
+
+🔹 Database
+    1.MongoDB
+    2.Mongoose ODM
+    3.Schema & models (HealthData.js)
+    4.MongoDB Connection Configuration
+
+🔹 Machine Learning
+    1.Python
+    2.Scikit-learn (implied via ML usage)
+    3.ML Algorithms
+    4.Random Forest
+    5.Logistic Regression
+    6.XGBoost
+
+🔹 Sensor Simulation
+    1.Node.js
+    2.JavaScript
+    3.Simulated IoT Sensor Data
+    4.HTTP / API-based Data Transmission
